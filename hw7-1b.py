@@ -40,4 +40,3 @@ py.plot(tpts,xpts)
 py.xlabel("Time (sec)")
 py.ylabel("Theta (deg)")
 py.show()
-    

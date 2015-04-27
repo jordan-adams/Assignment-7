@@ -42,3 +42,4 @@ py.ylabel("Theta (degrees)")
 py.show()
 
 
+print(tpts,xpts,ypts)
